@@ -23,11 +23,7 @@ I tried running a small, very-simplistic experiment:
 - quickly transforms to a normal distribution
 - moves towards a more and more skewed pareto distribution
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="pareto.mp4" type="video/mp4">
-  </video>
-</figure>
+https://user-images.githubusercontent.com/4151255/132993405-2a90c64a-a868-48d8-ba6a-5e766350d799.mp4
 
 ## Theory
 
