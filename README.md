@@ -3,10 +3,7 @@
 ## Why?
 
 I was watching a lecture by Jordan Peterson, where he talks about Pareto Distribution and Price's Law.
-So I thought I would try and verify that on a simple game.
-
-In particular, is the following true:
-> Half the wealth is owned by square root of the population?
+So I thought I would try and verify that on a simple game, similar to the one he shows in his lecture.
 
 ## What?
  
@@ -41,5 +38,4 @@ How does this Markov Process X_t behave? Does the process stabilize - all but on
 - Better understand the theory
 - What is the limiting distribution?
 - What happens as the population increases?
-- Does Price's Law hold at some stage in the above game?
-
+- Quantified relation with Price's Law
